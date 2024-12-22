@@ -54,7 +54,7 @@ const default_config = {
           ],
         },
         {
-          name: "video",
+          name: "misc",
           links: [
             {
               name: "anilist",
@@ -67,6 +67,12 @@ const default_config = {
               url: "https://www.youtube.com",
               icon: "brand-youtube",
               icon_color: palette.peach,
+            },
+            {
+              name: "yt-music",
+              url: "https://music.youtube.com",
+              icon: "disc",
+              icon_color: palette.rosewater,
             },
           ],
         },
