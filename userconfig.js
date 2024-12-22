@@ -35,12 +35,6 @@ const default_config = {
               icon_color: palette.purple,
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
-              icon_color: palette.peach,
-            },
-            {
               name: "reddit",
               url: "https://www.reddit.com/r/unixporn",
               icon: "brand-reddit",
@@ -51,12 +45,6 @@ const default_config = {
         {
           name: "gaming",
           links: [
-            {
-              name: "IGN",
-              url: "https://www.ign.com/account/playlist/library",
-              icon: "device-gamepad",
-              icon_color: palette.green,
-            },
             {
               name: "steam",
               url: "https://store.steampowered.com",
