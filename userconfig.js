@@ -32,7 +32,7 @@ const default_config = {
               name: "discord",
               url: "https://discord.com",
               icon: "brand-discord",
-              icon_color: palette.purple,
+              icon_color: palette.blue,
             },
             {
               name: "reddit",
